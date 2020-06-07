@@ -88,3 +88,5 @@ grep 匹配内容，一般结合管道符使用
 ```
 ### 补充  
 1. 从缓冲区删除` git rm --cached [file name]`
+### 练习  
+![pic](https://github.com/Qianye7/huashan/blob/master/u%3D716017398%2C429203332%26fm%3D26%26gp%3D0.jpg)
